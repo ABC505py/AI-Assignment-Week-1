@@ -37,3 +37,14 @@ crypto_db = {
         "sustainability_score": 8 / 10
     }
 }
+
+
+
+
+
+
+
+<img width="867" height="374" alt="image" src="https://github.com/user-attachments/assets/46f21633-26e5-49fb-9439-02f3dcd3cc42" />
+
+
+
